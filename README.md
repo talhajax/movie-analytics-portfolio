@@ -1,5 +1,5 @@
 # movie-analytics-portfolio
-A Portfolio project showcasing movie analytics using TMDB database.     
+A project showcasing movie analytics using TMDB database.     
 
 ## Dataset
 https://www.kaggle.com/datasets/akshaypawar7/millions-of-movies
